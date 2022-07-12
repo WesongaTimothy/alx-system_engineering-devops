@@ -1,1 +1,2 @@
-script that prints the absolute path name of the current working directory
+this is my school
+Betty is harsh
